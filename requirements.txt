@@ -27,7 +27,6 @@ ply==3.11
 protobuf==3.20.1
 pyarrow==8.0.0
 python-dateutil==2.8.2
-python-fastjsonschema==2.16.2
 PyQt5==5.15.7
 scipy==1.9.3
 seaborn==0.12.1
