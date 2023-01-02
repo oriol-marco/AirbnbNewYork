@@ -26,7 +26,7 @@ plotly==5.9.0
 ply==3.11
 protobuf==3.20.1
 pyarrow==8.0.0
-python==3.10.8
+python==3.10
 python-dateutil==2.8.2
 python-fastjsonschema==2.16.2
 PyQt5==5.15.7
