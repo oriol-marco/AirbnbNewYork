@@ -620,7 +620,7 @@ def main():
 
     ##############################Criminality Index#######################################
 
-    st.header("Criminality Index")
+    st.header("Índex de criminalitat")
 
     st.markdown("Veiem quina és la distribució de la criminalitat per districte.")
 
@@ -673,7 +673,7 @@ def main():
      de criminalitat del districte, ja que el preu del lloguer és més alt en els districtes amb més criminalitat. Això és normal ja que en aquest cas, hem comptabilitzat el total dels crims
       comesos, sense tenir en compte la tipologia d'aquests crims.""")
 
-    st.header("Limitations")
+    st.header("Limitacions")
 
     st.markdown(" - No teníem dades durant els últims anys i per tant no podíem comparar les tendències de lloguer actuals amb les tendències passades.")
 
