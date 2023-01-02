@@ -5,7 +5,6 @@ altair==4.1.0
 anyio==3.5.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-arrow-cpp==8.0.0
 asttokens==2.0.5
 attrs==22.1.0
 backcall==0.2.0
