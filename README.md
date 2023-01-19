@@ -17,6 +17,8 @@ The code should run with no issues using Python versions 3.10. The following lib
 * Seaborn
 * Folium
 
+https://oriol-marco-airbnbnewyork-app-f2l7pn.streamlit.app/
+
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in using Airbnb data from New York City to better understand:
